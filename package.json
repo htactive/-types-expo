@@ -1,0 +1,19 @@
+{
+  "name": "@types/expo",
+  "description": "TypeScript type definitions for Expo (www.expo.io).",
+  "version": "20.1.0",
+  "author": {
+    "name": "HT Active",
+    "email": "services@htactive.com"
+  },
+  "typings": "./index.d.ts",
+  "private": false,
+  "devDependencies": {
+    "@types/react": "16.x.x",
+    "@types/react-native": "0.x.x"
+  },
+  "peerDependencies": {
+    "@types/react": "16.x.x",
+    "@types/react-native": "0.x.x"
+  }
+}
